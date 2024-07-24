@@ -33,6 +33,15 @@ prioritize companies with experienced leadership teams.
  ![image](https://github.com/user-attachments/assets/40d6a46c-f809-46c7-b59b-fdab5bcf8b93)
  
  . Step 4: Data exploration (to better undertand the characteristics of the dataset) 
+
+ . Step 5: Ensure each column has the right datatype through coversion etc. e.g from object to datetime, string to integer etc. check below 
+
+ . Step 6: Indentify columns or rows with missing  values.
+
+ ![image](https://github.com/user-attachments/assets/90f17449-46a5-4831-ab6b-cbb57db8c916)
+
  
  
+ 
+
 
